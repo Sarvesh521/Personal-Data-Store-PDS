@@ -1,6 +1,6 @@
 # Personal Data Store (PDS)
 
-This project contains the implementation of various functionalities related to a Player-sports database.
+This project implements various functionalities for a Player-Sports database, where **Player** is the parent entity, and **Sport** is the child entity. The project uses a binary search tree (BST) to efficiently manage and query the data.
 
 Parent is Player
 Child is Sport
